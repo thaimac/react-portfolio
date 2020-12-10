@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Tyler McEwen",
+    "occupation":"4th year Computer Science Student @ Lakehead University",
+    "description":"Sophisticated Design | Innovative Thinker",
+    "image":"profilepic.jpg",
+    "bio":"Hello! My name is Tyler McEwen and I am currently in my 4th of 5 years for a degree in Computer Science at Lakehead University. Throughout my degree I have held many roles within the IT sector and have both led and collaborated on a variety of software development projects. Keep scrolling for the specifics!",
+    "contactmessage":"Whether inquiring about a job or collaboration opportunity, use this form to get in touch with me!",
+    "email": "tmcewen4@gmail.com",
+    "phone": "+1 (807) 631-4574",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Thunder Bay",
+      "state":"ON",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"./Tyler-McEwen-Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tyler-mcewen",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tylermcewen__/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/thaimac",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am skilled in the following technologies, among others.",
+    "education":[
+      {
+        "school":"Lakehead University",
+        "degree":"Computer Science HBSc",
+        "graduated":"April 2022 Expected Graduation Date",
+        "description":"During my time in university I have learnt and applied various technologies, worked in groups in a leadership capacity, and have met and worked with some truly amazing individuals."
+      }
+    ],
+    "work":[
+      {
+        "company":"City of Edmonton",
+        "title":"Network Analyst Intern",
+        "years":"January 2020 - September 2020",
+        "description":"Monitored the network and performed regular upgrades to software and firmware of devices in production. Replace all out of cycle network equipment in production with newer models. Manage, schedule, and execute the protocol upgrade to all capable devices in production."
+      },
+      {
+        "company":"Tbaytel",
+        "title":"Network and Server Technician Intern",
+        "years":"April 2019 - September 2019",
+        "description":"Collaborated with fellow coworkers to manage the replacement of all out of cycle devices. Assist in the data center migration. Monitor incoming tickets and respond to them in a timely and effective manner."
+      },
+      {
+        "company":"MBI IT Services",
+        "title":"Lead IT Field Technician",
+        "years":"Contracted from April - June 2018",
+        "description":"Received and prepared all technology that was to be used in the 2018 Ontario provincial election. Preparation involved loading voter databases, ensuring all equipment was functional, and imaging the various laptops for each voting location. It was then my responsibility to troubleshoot any issues that were encountered during voting times."
+      },
+      {
+        "company":"Softsell Computers",
+        "title":"Computer Technician ",
+        "years":"August 2017 - April 2018",
+        "description":"Interface with customers in an attempt to understand their technological needs, then provide them with recommendations for certain products based on these needs. It was also my responsibility to troubleshoot the technological issues that customers were experiencing and to furnish a work order for all work that was done on the device."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"C/C++",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5/CSS",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Docker",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"California Housing Prediction",
+        "category":"A cloud hosted machine learning application written in Python and Flask.",
+        "image":"housing.jpg"
+      },
+      {
+        "title":"Cryptocurrency Trading Bot",
+        "category":"An automated crypto trading bot written in Python that is triggered based on several technical indicators.",
+        "image":"trading-bot.jpg"
+      },
+      {
+        "title":"Conway's Game of Life",
+        "category":"Conway's game of life implementation written in Kotlin and TornadoFX",
+        "image":"gol.jpg"
+      },
+      {
+        "title":"Document Similarity App",
+        "category":"Calculates the similarity of two documents based on cosine similarity. Written in Clojure",
+        "image":"cosine.png"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
